@@ -3,12 +3,13 @@
 
 /**
  * main - entry point
+ *
  * Description: prints the numbers 1 - 100
  * fizz for multiples of 3, buzz for multiples of 5,
  * and FizzBuzz for multiples of both
+ *
  * Return: Always 0
  */
-
 int main(void)
 {
 	int i;
